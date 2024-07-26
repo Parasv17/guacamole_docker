@@ -1,0 +1,1 @@
+parasv_18@Paras-vivobook:/mnt/e/PARAS/Projects/Heydo tech/Docker/2$ docker exec -it postgres_guacamole_compose psql -U guacamole_user -d guacamole_db -f /docker-entrypoint-initdb.d/initdb.sql
